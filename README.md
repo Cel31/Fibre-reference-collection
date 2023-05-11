@@ -11,8 +11,7 @@ that could be also used as an indicator of plant property into archaeobotanical 
 
 Phytolith plays a role in plant solidity, as most of them are in the epidermis cells consolidating and protect-
 ing the plant (Catling&Grayson, 2007). The longest fibers and silica bodies are pushed to the outer layer of
-the plant because they could not have other use than protecting the vascular system and especially the phlo-
-em of the living plant. The phytoliths cast in stigmata cells, that are in epidermal or hypodermal cells and
+the plant because they could not have other use than protecting the vascular system and especially the phloem of the living plant. The phytoliths cast in stigmata cells, that are in epidermal or hypodermal cells and
 close by vascular system.
 
 Arecales https://doi.org/10.5281/zenodo.6615344
